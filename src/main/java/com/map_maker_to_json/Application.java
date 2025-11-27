@@ -1,6 +1,6 @@
-package com.map_maker_to_json.main;
+package com.map_maker_to_json;
 
-import com.map_maker_to_json.main.GUI.MapConfigDialog;
+import com.map_maker_to_json.GUI.MapConfigDialog;
 
 import javax.swing.JFrame;
 
