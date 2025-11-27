@@ -1,4 +1,4 @@
-package com.map_maker_to_json.main.GUI;
+package com.map_maker_to_json.GUI;
 
 
 import java.awt.GridLayout;
