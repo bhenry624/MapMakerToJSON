@@ -1,2 +1,4 @@
 # MapMakerToJSON
 Application to create a 2D map with the mouse and a selection of tiles, and export it to JSON to be imported into other projects that need said map.
+
+Will flesh out as I add to this project, the idea for now is that the user will be prompted with a name for the map that's created, provide a grid size in terms of tiles, and a size of the pixels for the map before the canvas is drawn. Then the user will use their mouse to select the tile type (grass, water, watt, etc.) and click on the canvas itself to place the tiles. After the map is created, the user will have an "Export to JSON" button that when clicked will convert the data to JSON and copy the contents to the clipboard locally, making it easy to import it into a resource folder of another project such as a video game that utilizes maps made in this fashion.
